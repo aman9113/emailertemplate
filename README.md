@@ -1,1 +1,1 @@
-Basic html mailer
+Basic html mailer of iae Global India Pvt Ltd
